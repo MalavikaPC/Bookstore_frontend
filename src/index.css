@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import "tailwindcss";
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato';
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Black+Ops+One&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Dancing+Script:wght@400..700&family=Fascinate+Inline&family=Finlandica+Text:ital,wght@0,100..900;1,100..900&family=Henny+Penny&family=Lato:wght@100;300;400;700;900&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Wallpoet&display=swap');
+@import "tailwindcss";
+
+* {
+ 
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+}
